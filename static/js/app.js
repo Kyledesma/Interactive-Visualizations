@@ -70,6 +70,7 @@ function init() {
    
        // Define the bar graph plot layout
        var layout1 = {
+        title: "Top 10 OTUs",
       };
      
        // Plot the chart to a div tag with id "bar-plot"
@@ -197,6 +198,7 @@ function updatePlotly() {
 
     // Define the plot layout
       var layout = {
+        title: "Top 10 OTUs",
     
     };
     
